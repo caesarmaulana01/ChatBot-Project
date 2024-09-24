@@ -7,9 +7,6 @@ PST Chatbot is a Telegram bot developed during an internship at Badan Pusat Stat
 - **User-Friendly Interface**: Offers inline keyboard options for seamless interaction.
 - **24/7 Availability**: Hosted on PythonAnywhere for constant access.
 
-## Installation
-To run the bot, ensure you have Python and the required libraries installed. Clone this repository and follow the instructions in the `requirements.txt` file to set up the environment.
-
 ## Usage
 - Interact with the bot to ask questions regarding statistics data.
 - Use the provided buttons for quick navigation and assistance.
